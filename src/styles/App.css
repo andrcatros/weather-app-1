@@ -1,0 +1,21 @@
+.forecast {
+  margin: 0px 20px;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+form {
+  display: inline;
+  width: auto;
+  margin-right: 10px;
+}
+
+.search-error {
+  display: inline;
+  color: red;
+}
+
+.forecast-details {
+  text-align: center;
+}
+
+

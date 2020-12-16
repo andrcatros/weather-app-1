@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Forecast Summary renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="forecast-summary"
+  >
+    <span
+      class="date"
+      data-testid="date-id"
+    >
+      April 30th, 2018
+    </span>
+    <i
+      class="wi wi-day-sunny"
+      data-testid="icon-image-id"
+      name="owm"
+    />
+    <span
+      class="max-temperature"
+      data-testid="temperature-id"
+    >
+      68494℃
+    </span>
+    <span
+      class="description"
+      data-testid="description-id"
+    >
+      testDesc
+    </span>
+    <button>
+      More Details
+    </button>
+  </div>
+</DocumentFragment>
+`;
